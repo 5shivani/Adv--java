@@ -1,2 +1,3 @@
-# Adv--java
-This contains programs on advance java concept
+# Adv-java
+1.JDBC
+2.Servlets
